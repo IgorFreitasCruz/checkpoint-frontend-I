@@ -59,7 +59,7 @@ As seguintes ferramentas foram utilizadas para o projeto:
 
 ## Autor
 <a>
- <img style="border-radius: 50%;" src="static/images/igor.jpeg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="./img/igor.jpeg" width="100px;" alt=""/>
  <br />
  <sub><b>Igor de Freitas Cruz</b></sub></a> 🚀
  <br />
